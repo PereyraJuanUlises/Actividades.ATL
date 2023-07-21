@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Moda",
+    "description": "Preguntas relacionadas con vestimenta y tendencias."
+  },
+  {
+    "category": "Zapatillas",
+    "description": "Preguntas relacionadas a distinto tipos de pares de zapatillas. "
+  },
+  {
+    "category": "Tecnologia",
+    "description": "Preguntas relacionadas a el mundo tecnologico"
+  },
+  {
+    "category": "Cine",
+    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+  },
+  {
+    "category": "Geografia",
+    "description": "Preguntas relacionadas a lugares del mundo."
+  },
+  {
+    "category": "Matematicas",
+    "description": "Preguntas relacionadas a cuentas matematicas."
+  }
+]

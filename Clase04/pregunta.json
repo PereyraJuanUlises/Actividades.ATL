@@ -1,0 +1,7 @@
+{
+  "category": "Matematicas",
+  "question": "¿Qué me devuelve como resultado la formula de la resolvente?",
+  "options": ["Volumen","raices","numeros imaginarios","perimetro de un triangulo"],
+  "answer": 1,
+  "explanation": "Raices, La formula de la resolvente se suele usar para saber el resultado de las raices."
+}
