@@ -1,0 +1,5 @@
+primer\api\primerApi\entitie\Lead.class
+primer\api\primerApi\reposiroty\LeadRepository.class
+primer\api\primerApi\ServletInitializer.class
+primer\api\primerApi\PrimerApiApplication.class
+primer\api\primerApi\controller\LeadController.class
